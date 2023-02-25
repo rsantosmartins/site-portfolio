@@ -3,6 +3,11 @@
 Este é um projeto para iniciar os estudos sobre HTML, CSS e JS.
 O objetivo principal é criar um site com minhas informações profissionais.
 
+## Live Link
+
+https://rsantosmartins.github.io/site-portfolio/
+
+
 ## Principais conceitos aplicados
 
 - Flexbox 
